@@ -67,7 +67,7 @@
 					<div class="col-md-6 panel">
 						<div class="panel-body">
 							<p class="text-right">
-								Copyright &copy; Parth Varde <a href="#" rel="develop">parthvarde</a>
+								Copyright &copy; MUHUZA <a href="https://twitter.com/gisamoise" target="_blank" rel="develop">Moise GISA</a>
 							</p>
 						</div>
 					</div>
