@@ -23,7 +23,7 @@
 </head>
 
 <?php
-$strconn=mysqli_connect("localhost","root","","project");
+$strconn=mysqli_connect("localhost","id13483005_niyizibyose","Mubirambo2017","id13483005_user");
 		if(!$strconn)
 			echo "Connection failed".mysqli_connect_error();
 		  
