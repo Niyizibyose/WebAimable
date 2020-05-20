@@ -23,7 +23,7 @@
 <body>
 	<?php
 		include "nav.php";
-		$strconn=mysqli_connect("localhost","id13483005_niyizibyose","Mubirambo2017","id13483005_user");
+		$strconn=mysqli_connect("localhost","id13779190_muhuza","9MLy$<{FIQcZ}cP=","id13779190_admin");
 		if(!$strconn)
 			echo "Connection failed".mysqli_connect_error();
 		else{}
